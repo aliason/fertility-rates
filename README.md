@@ -35,7 +35,7 @@ Note: The preparation and planning report will not be included in this repositor
 
 ## Methods used
 * Data processing
-    * Tidy the dataset, handle missing data, and engineer features for modeling 
+     * Data tidying, restructuring, and feature engineering
 * Exploratory data analysis (EDA)
     * Descriptive analysis
     * Inferential analysis
