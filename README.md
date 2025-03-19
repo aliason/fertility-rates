@@ -1,29 +1,46 @@
 # Research Project: Analysis of Fertility Rates 
 
 ## Project description: 
-This repository contains the code for the final course project of PSTAT 100 (Data Science Concepts & Analysis) at the University of California, Santa Barbara taken in Spring 2023. Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
+This repository contains the code for the final course project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB.  Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
 
-My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the contribution of gender, country, and world development indicators to total fertility rates. I will be conducting in-depth analysis of fertility data in Python and implementing multiple techniques to address my research questions.  
+My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the impact of gender, country, and world development indicators to total fertility rates. To achieve this, I will be conducting an in-depth analysis of fertility data in Python, applying various data science techniques to address my research questions.  
 
-## Problem statement
-Over the late 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates and accelerated population growth, which was predicted to come to an end as total fertility rates – measured as the average number of children per woman – continue to fall. As of 2021, the global fertility rate is 1.66 and falling.  
+## Problem Statement
+Over the late 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates and accelerated population growth, which was expected to come to an end as total fertility rates – measured as the average number of children per woman – continue to fall. As of 2021, the global fertility rate is 1.66 and still falling.  
 
-Current perspectives attribute this decline to the social mobility of women; economic and political stability; and the increased well-being of children. But can we be certain? Which explaination is more probable, or are all of them equally valid? Through what means do upward mobility, economic prosperity, or improved well-being impact total fertility rates? Which ones are most predictive of a country's fertility rates? These questions, and more, will be explored in this project. 
+Current perspectives attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being. This project seeks to answer the following questions:
+* Which factors most predict a country’s fertility rate?
+* How do upward mobility, economic prosperity, and child well-being impact fertility rates?
+* Which of these explanations are the most probable?
 
-## Data sources
-Data are sourced from the [United Nations Development Programme](https://www.undp.org/) and the [World Bank](https://data.worldbank.org/). Preprocessed datasets were imported from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
+## Data Sources
+The data used in this project are sourced from
+* [United Nations Development Programme](https://www.undp.org/) 
+* [World Bank](https://data.worldbank.org/)
+* Preprocessed datasets from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
 
+## Project Structure
+The project is divided into two stages:
+* Preparation and planning
+    * Gather background information on the topic, data sources, and analytical objectives.
+    * Clean and tidy the data for analysis.
+    * Perform initial exploratory data analysis (EDA) to inform the next steps.
+    * Deliverable: A brief interim report (2-4 pages) outlining the background, dataset, initial explorations, and at least 2 focused questions with possible approaches.
+* Analysis and reporting
+    * Perform exploratory analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
+    * Refine and further investigate research questions based on findings.
+    * Deliverable: A 3-5 page report summarizing the abstract, background, data, aims, methods, results, and a discussion of key findings, limitations, and recommendations.
 
-## Project outline 
-First, I will provide background information, specify my data sources, and define my research questions. I will then conduct exploratory analysis and refine the dataset to isolate my factors of interest, using Python data science libraries to facilitate data cleaning and visualization. I perform correlation analysis to inspect relationships; prinicpal component analysis (PCA) to identify key drivers of variability; and multiple regression analysis t
+Note: The preparation and planning report will not be included in this repository. Detailed instructions are provided in the `project-description.ipynb` file. 
 
 ## Methods used
 * Data processing
-* Data cleaning 
-* Feature engineering 
-* Exploratory data analysis 
-    * Summary statistics 
-    * Data visualization
+    * Tidy the dataset, handle missing data, and engineer features for modeling 
+* Exploratory data analysis (EDA)
+    * Descriptive analysis
+    * Inferential analysis
+    * Data visualizations (scatterplots, histograms, heatmaps) 
     * Correlation analysis 
-* Dimensionality reduction (PCA) 
-* Multiple regression
+    * Principal component analysis (PCA)
+* Data modeling
+    * Multiple Regression Analysis 
