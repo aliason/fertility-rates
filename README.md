@@ -24,7 +24,6 @@ The project is divided into two stages:
 * Preparation and planning
     * Gather background information on the topic, data sources, and analytical objectives.
     * Clean and tidy the data for analysis.
-    * Perform initial exploratory data analysis (EDA) to inform the next steps.
     * Deliverable: A brief interim report (2-4 pages) outlining the background, dataset, initial explorations, and at least 2 focused questions with possible approaches.
 * Analysis and reporting
     * Perform exploratory analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
