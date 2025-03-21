@@ -1,6 +1,6 @@
 # Research Project: Analysis of Fertility Rates 
 
-## Project Description: 
+## Project Description
 This repository contains the code for the final course project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB.  Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
 
 My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the impact of gender, country, and world development indicators to total fertility rates. To achieve this, I will be conducting an in-depth analysis of fertility data in Python, applying various data science techniques to address my research questions.  
