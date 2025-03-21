@@ -43,6 +43,7 @@ Note: The preparation and planning report will not be included in this repositor
     * Principal component analysis (PCA)
 * Data modeling
     * Multiple Regression Analysis
+    * Regularization (Lasso)
 
 Tools: 
 * Python (pandas, numpy, altair, statsmodels, scipy, matplotlib)
