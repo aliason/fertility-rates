@@ -47,7 +47,6 @@ Note: The preparation and planning report will not be included in this repositor
         * Q-Q plot (normality check)
         * Residual plot
         * Variance inflation factor (VIF)
-    * Regularization (Lasso) 
 
 Tools: 
 * Python (pandas, numpy, altair, statsmodels, scipy, matplotlib)
