@@ -6,7 +6,7 @@ This repository contains the code for the final course project of PSTAT 100 (Dat
 My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the impact of gender, country, and world development indicators to total fertility rates. To achieve this, I will be conducting an in-depth analysis of fertility data in Python, applying various data science techniques to address my research questions.  
 
 ## Problem Statement
-Over the late 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates and accelerated population growth, which was expected to come to an end as total fertility rates – measured as the average number of children per woman – continue to fall. As of 2021, the global fertility rate is 1.66 and still falling.  
+Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates and accelerated population growth, which was expected to come to an end as total fertility rates – measured as the average number of children per woman – continue to fall. As of 2021, the global fertility rate is 1.66 and still falling.  
 
 Current perspectives attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being. This project seeks to answer the following questions:
 * Which factors most predict a country’s fertility rate?
