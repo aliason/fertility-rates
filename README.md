@@ -33,20 +33,28 @@ The project is divided into two stages:
 Note: The preparation and planning report will not be included in this repository. Detailed instructions are provided in the `project-description.ipynb` file. 
 
 ## Methods used
-* Data processing
-     * Data tidying, restructuring, and feature engineering
+** Data processing
+    * Data tidying, restructuring, and feature engineering
 * Exploratory data analysis (EDA)
-    * Descriptive analysis
-    * Inferential analysis
-    * Data visualizations (scatterplots, histograms, heatmaps) 
+    * Feature analysis
+    * Data visualization (scatterplots, histograms, heatmaps) 
     * Correlation analysis 
     * Principal component analysis (PCA)
 * Data modeling
     * Multiple Regression Analysis 
- * Model diagnostics
-     * Q-Q plot (normality check)
-     * Residual plot
-     * Variance inflation factor (VIF)
+* Model diagnostics
+    * Q-Q plot (normality check)
+    * Residual plot
+    * Variance inflation factor (VIF)
 
-Tools: 
-* Python (pandas, numpy, altair, statsmodels, scipy, matplotlib)
+Python
+* Analysis: numpy, pandas, statsmodels (PCA, OLS, stats), scipy (stats), sklearn 
+* Visualization: matplotlib, altair 
+
+
+
+
+
+
+
+
