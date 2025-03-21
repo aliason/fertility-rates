@@ -22,15 +22,17 @@ The data used in this project are sourced from
 ## Project Structure
 The project is divided into two stages:
 * Preparation and planning
-    * Gather background information on the topic, data sources, and analytical objectives.
-    * Clean and tidy the data for analysis.
+    * Research: background information, data sources, and analytical objectives.
+    * Clean and preprocess the data for analysis.
     * Deliverable: A brief interim report (2-4 pages) outlining the background, dataset, initial explorations, and at least 2 focused questions with possible approaches.
 * Analysis and reporting
     * Perform exploratory analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
-    * Refine and further investigate research questions based on findings.
-    * Deliverable: A 3-5 page report summarizing the abstract, background, data, aims, methods, results, and a discussion of key findings, limitations, and recommendations.
+    * Refine research questions based on findings.
+    * Deliverable: A 3-5 page report summarizing the abstract, background, and methodology; key findings and analysis; a discussion of limitations and recommendations.
 
-Note: The preparation and planning report will not be included in this repository. Detailed instructions are provided in the `project-description.ipynb` file. 
+Note: The preparation and planning report will not be included in this repository. Due to scheduling conflicts, I've opted for an individual instead of group) project, resulting in a more comprehensive analysis. 
+
+Detailed instructions are provided in the `project-description.ipynb` file. 
 
 ## Methods used
 * Data processing
