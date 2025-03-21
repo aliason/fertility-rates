@@ -33,7 +33,7 @@ The project is divided into two stages:
 Note: The preparation and planning report will not be included in this repository. Detailed instructions are provided in the `project-description.ipynb` file. 
 
 ## Methods used
-** Data processing
+* Data processing
     * Data tidying, restructuring, and feature engineering
 * Exploratory data analysis (EDA)
     * Feature analysis
