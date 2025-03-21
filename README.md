@@ -42,8 +42,12 @@ Note: The preparation and planning report will not be included in this repositor
     * Correlation analysis 
     * Principal component analysis (PCA)
 * Data modeling
-    * Multiple Regression Analysis
-    * Regularization (Lasso)
+    * Multiple Regression Analysis 
+    * Model diagnostics
+        * Q-Q plot (normality check)
+        * Residual plot
+        * Variance inflation factor (VIF)
+    * Regularization (Lasso) 
 
 Tools: 
 * Python (pandas, numpy, altair, statsmodels, scipy, matplotlib)
