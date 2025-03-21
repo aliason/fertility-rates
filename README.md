@@ -51,7 +51,7 @@ Detailed instructions are provided in the `project-description.ipynb` file.
 
 Python
 * Analysis: numpy, pandas, statsmodels (PCA, OLS, stats), scipy (stats), sklearn 
-* Visualization: matplotlib, altair 
+* Visualization: matplotlib, altair, seaborn
 
 
 
