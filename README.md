@@ -1,9 +1,9 @@
 # Research Project: Analysis of Fertility Rates 
 
 ## Project Description
-This repository contains the code for the final capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB.  Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
-
-My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the impact of gender, country, and world development indicators to total fertility rates. To achieve this, I will be conducting an in-depth analysis of fertility data in Python, applying various data science techniques to address my research questions.  
+This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB.  Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
+ 
+My project investigates the decline in fertility rates across select developed nations in the 20th century and seeks to identify the key drivers of this decrease. To this end, I will conduct an in-depth analysis of gender, country, and world development indicators in Pytjon, applying various techniques to address my research questions.  
 
 ## Problem Statement
 Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates, while population growth surged. This rapid growth was expected to plateau as fertility rates – measured as the average number of children per woman – continued to decline. As of 2021, the global fertility rate is 1.66 and falling. 
@@ -23,14 +23,14 @@ The data used in this project are sourced from
 The project is divided into two stages:
 * Preparation and planning
     * Research: background information, data sources, and analytical objectives.
-    * Clean and preprocess the data for analysis.
-    * Deliverable: A brief interim report (2-4 pages) outlining the background, dataset, initial explorations, and at least 2 focused questions with possible approaches.
+    * Data cleaning and preprocessing 
+    * Deliverable: A brief interim report of the background, project scope, initial explorations, and at least 2 focused questions with possible approaches.
 * Analysis and reporting
-    * Perform exploratory analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
+    * Exploratory data analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
     * Refine research questions based on findings.
-    * Deliverable: A 3-5 page report summarizing the abstract, background, and methodology; key findings and analysis; a discussion of limitations and recommendations.
+    * Deliverable: A report of the abstract, background, and methodology; key findings and analysis; and a discussion of limitations and recommendations.
 
-Note: The preparation and planning report will not be included in this repository. Due to scheduling conflicts, I've opted for an individual instead of group) project, resulting in a more comprehensive analysis. 
+Note: The preparation and planning report will not be included in this repository. Due to scheduling conflicts, I've opted for an individual (instead of group) project, resulting in a more comprehensive analysis. 
 
 Detailed instructions are provided in the `project-description.ipynb` file. 
 
