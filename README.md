@@ -43,8 +43,7 @@ Python
 ## Visualizing the Results 
 Note: GitHub does not fully support interactive Altair charts in Jupyter notebooks, so visualizations may not display correctly in the `.ipynb` file.
 
-View the fully rendered interactive notebook [here](docs/project-final.html)
-
+View the fully rendered interactive notebook [here](https://aliason.github.io/fertility-rates/)
 
 
 
