@@ -34,7 +34,7 @@ Note: The preparation and planning report will not be included in this repositor
 
 Detailed instructions are provided in the `project-description.ipynb` file. 
 
-## Methods used
+## Methods Used
 * Data processing
     * Data tidying, restructuring, and feature engineering
 * Exploratory data analysis (EDA)
