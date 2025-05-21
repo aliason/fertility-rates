@@ -3,7 +3,7 @@
 ## Project Description
 This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB.  Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
  
-My project investigates the decline in fertility rates across select developed nations in the 20th century and seeks to identify the key drivers of this decrease. To this end, I will conduct an in-depth analysis of gender, country, and world development indicators in Pytjon, applying various techniques to address my research questions.  
+My project investigates the decline in fertility rates across select developed nations in the 20th century and seeks to identify the key drivers of this decrease. To this end, I will conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various techniques to address my research questions.  
 
 ## Problem Statement
 Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates, while population growth surged. This rapid growth was expected to plateau as fertility rates – measured as the average number of children per woman – continued to decline. As of 2021, the global fertility rate is 1.66 and falling. 
@@ -18,21 +18,6 @@ The data used in this project are sourced from
 * [United Nations Development Programme](https://www.undp.org/) 
 * [World Bank](https://data.worldbank.org/)
 * Preprocessed datasets from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
-
-## Project Structure
-The project is divided into two stages:
-* Preparation and planning
-    * Research: background information, data sources, and analytical objectives.
-    * Data cleaning and preprocessing 
-    * Deliverable: A brief interim report of the background, project scope, initial explorations, and at least 2 focused questions with possible approaches.
-* Analysis and reporting
-    * Exploratory data analysis: examine variable distributions, correlations, and relationships using statistical techniques and visualizations.
-    * Refine research questions based on findings.
-    * Deliverable: A report of the abstract, background, and methodology; key findings and analysis; and a discussion of limitations and recommendations.
-
-Note: The preparation and planning report will not be included in this repository. Due to scheduling conflicts, I've opted for an individual (instead of group) project, resulting in a more comprehensive analysis. 
-
-Detailed instructions are provided in the `project-description.ipynb` file. 
 
 ## Methods Used
 * Data processing
@@ -50,8 +35,9 @@ Detailed instructions are provided in the `project-description.ipynb` file.
     * Variance inflation factor (VIF)
 
 Python
-* Analysis: numpy, pandas, statsmodels (PCA, OLS, stats), scipy (stats), sklearn 
-* Visualization: matplotlib, altair, seaborn
+* Data analysis: `numpy`, `pandas`
+* Statistical modeling: `statsmodels` (PCA, OLS, stats), `scipy.stats`, `scikit-learn` 
+* Visualization: `matplotlib`, `altair` 
 
 
 
