@@ -8,7 +8,7 @@ My project investigates the decline in fertility rates across select developed n
 ## Problem Statement
 Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates, while population growth surged. This rapid growth was expected to plateau as fertility rates – measured as the average number of children per woman – continued to decline. As of 2021, the global fertility rate is 1.66 and falling. 
 
-Current perspectives attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being. This project seeks to explore the following questions:
+Current perspectives attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being. This project seeks to explore:
 * Which factors most predict a country’s fertility rate?
 * How do upward mobility, economic prosperity, and child well-being impact fertility rates?
 * Which of these explanations are the most probable?
