@@ -5,11 +5,6 @@ This repository contains the code for the capstone project of PSTAT 100 (Data Sc
  
 My project investigates the decline in fertility rates across select developed nations in the 20th century and seeks to identify key drivers of this decrease. To this end, I will conduct an in-depth analysis of gender, country, and socioeconomic indicators in Python, applying various techniques to address my research questions.  
 
-Note: GitHub does not fully support interactive Altair charts in Jupyter notebooks, so visualizations may not display correctly in the `.ipynb` file.
-
-View the fully rendered interactive notebook [here](final-project/project-final.html)
-
-
 ## Problem Statement
 Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates, while population growth surged. This rapid growth was expected to plateau as fertility rates – measured as the average number of children per woman – continued to decline. As of 2021, the global fertility rate is 1.66 and falling. 
 
@@ -45,6 +40,10 @@ Python
 * Visualization: `matplotlib`, `altair` 
 
 
+## Visualizing the Results 
+Note: GitHub does not fully support interactive Altair charts in Jupyter notebooks, so visualizations may not display correctly in the `.ipynb` file.
+
+View the fully rendered interactive notebook [here](final-project/project-final.html)
 
 
 
