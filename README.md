@@ -5,16 +5,21 @@ This repository contains the code for the capstone project of PSTAT 100 (Data Sc
 
 My project explores the decline in fertility rates across select developed nations in the 21st century and seeks to identify its key drivers. To this end, I conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various data science techniques to address my research questions.  
 
+## Background 
+Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a sharp decline in fertility as population growth surged. This growth was expected to plateau as fertility rates continued to fall. As of 2021, the global fertility rate is 1.66 and [falling](https://www.cbo.gov/publication/58912#:~:text=In%20CBO%27s%20projections%2C%20the%20total,where%20it%20remains%20through%202053). 
+
+[Current research](https://ourworldindata.org/fertility-rate#data-sources) attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being.
+
+This project seeks to explore:
+* Which factors best predict a country’s fertility rate?
+* How do upward mobility, economic prosperity, and child well-being impact fertility rates?
+* Which of these explanations are the most probable?
+
 ## Data Sources
 The data used in this project are sourced from
 * [United Nations Development Programme](https://www.undp.org/) 
 * [World Bank](https://data.worldbank.org/)
 * Preprocessed datasets from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
-
-## Project Roadmap
-First, I preprocess the data by tidying datasets, extracting relevant variables, and handling missing values. Next, I perform exploratory data analysis (EDA), using statistical techniques to assess trends and variability. Then, I build and evaluate a multiple regression model, performing diagnostic tests to ensure valid analysis.
-
-Multiple visualizations are created throughout for impact and clarity. The project concludes with a summary of key findings and recommendations for further analysis. 
 
 ## Methods Used
 * Preprocessing
