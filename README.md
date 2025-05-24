@@ -3,7 +3,7 @@
 ## Project Description
 This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB. Students practice the data science lifecycle on a research topic of their choosing, demonstrating course concepts such as inference, prediction, principles of measurement, missing data, and notions of causality.
  
-My project explores the decline in fertility rates across select developed nations in the 20th century and seeks to identify its key drivers. To this end, I will conduct an in-depth analysis of gender, country, and socioeconomic indicators in Python, applying various data science techniques to address my research questions.    
+My project explores the decline in fertility rates across select developed nations in the 20th century and seeks to identify its key drivers. To this end, I will conduct an in-depth analysis of gender, country, and world developement indicators in Python, applying various data science techniques to address my research questions.    
 
 ## Problem Statement
 Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates while population growth surged. This rapid growth was expected to plateau as fertility rates continued to fall. As of 2021, the global fertility rate is 1.66 and falling. 
