@@ -1,23 +1,20 @@
 # Analysis of Fertility Rates 
 
 ## Project Description
-This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB. Students practice the data science lifecycle on a research topic of their choosing, demonstrating course concepts such as inference, prediction, principles of measurement, missing data, and notions of causality.
- 
-My project explores the decline in fertility rates across select developed nations in the 20th century and seeks to identify its key drivers. To this end, I will conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various data science techniques to address my research questions.    
+This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB. Students practice the data science lifecycle on a research topic of their choosing, demonstrating key concepts such as inference, prediction, principles of measurement, and notions of causality.
 
-## Problem Statement
-Over the last 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates while population growth surged. This rapid growth was expected to plateau as fertility rates continued to fall. As of 2021, the global fertility rate is 1.66 and falling. 
-
-Current research attribute this decline to factors such as women’s social mobility, economic stability, and improvements in child well-being. This project seeks to explore:
-* Which factors best predict a country’s fertility rate?
-* How do upward mobility, economic prosperity, and child well-being impact fertility rates?
-* Which of these explanations are the most probable?
+My project explores the decline in fertility rates across select developed nations in the 20th century and seeks to identify its key drivers. To this end, I conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various data science techniques to address my research questions.   
 
 ## Data Sources
 The data used in this project are sourced from
 * [United Nations Development Programme](https://www.undp.org/) 
 * [World Bank](https://data.worldbank.org/)
 * Preprocessed datasets from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
+
+## Project Roadmap
+First, I preprocess the data by tidying datasets, extracting relevant variables, and handling missing values. Next, I perform exploratory data analysis (EDA), using statistical techniques to assess trends and variability. Then, I build and evaluate a multiple regression model, performing diagnostics to ensure valid analysis.
+
+Multiple visualizations are created throughout for impact and clarity. The project concludes with a summary of key findings and recommendations for further analysis. 
 
 ## Methods Used
 * Preprocessing
