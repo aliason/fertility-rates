@@ -1,4 +1,4 @@
-Analysis of Fertility Rates 
+# Analysis of Fertility Rates 
 
 ## Project Description
 This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB. Students practice the data science lifecycle on a research topic of their choosing, demonstrating course concepts such as inference, prediction, principles of measurement, missing data, and notions of causality.
