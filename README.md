@@ -12,7 +12,7 @@ The data used in this project are sourced from
 * Preprocessed datasets from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
 
 ## Project Roadmap
-First, I preprocess the data by tidying datasets, extracting relevant variables, and handling missing values. Next, I perform exploratory data analysis (EDA), using statistical techniques to assess trends and variability. Then, I build and evaluate a multiple regression model, performing diagnostics to ensure valid analysis.
+First, I preprocess the data by tidying datasets, extracting relevant variables, and handling missing values. Next, I perform exploratory data analysis (EDA), using statistical techniques to assess trends and variability. Then, I build and evaluate a multiple regression model, performing diagnostic tests to ensure valid analysis.
 
 Multiple visualizations are created throughout for impact and clarity. The project concludes with a summary of key findings and recommendations for further analysis. 
 
