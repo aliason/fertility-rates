@@ -3,7 +3,7 @@
 ## Project Description
 This repository contains the code for the capstone project of PSTAT 100 (Data Science Concepts & Analysis) at UCSB. Students practice the data science lifecycle on a research topic of their choosing, demonstrating key concepts such as inference, prediction, principles of measurement, and notions of causality.
 
-My project explores the decline in fertility rates across select developed nations in the 20th century and seeks to identify its key drivers. To this end, I conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various data science techniques to address my research questions.   
+My project explores the decline in fertility rates across select developed nations in the 21st century and seeks to identify its key drivers. To this end, I conduct an in-depth analysis of gender, country, and world development indicators in Python, applying various data science techniques to address my research questions.  
 
 ## Data Sources
 The data used in this project are sourced from
