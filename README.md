@@ -34,7 +34,7 @@ The data used in this project are sourced from
         * Trend analysis (bivariate) (via scatterplots) 
     * Principal component analysis (PCA) 
 * Modeling
-    * Multiple regression analysis 
+    * Multiple linear regression (MLR)  
     * Diagnostics: Q-Q plots, residual plots, variance inflation factor (VIF)
 
 Python
