@@ -31,10 +31,10 @@ The data used in this project are sourced from
 * Exploration
     * Correlation analysis (corrplots, heatmaps)
     * Feature analysis
-         * Distribution analysis (bivariate) (scatterplots)  
+        * Trend (bivariate) analysis (scatterplots) 
     * Feature extraction (PCA) 
 * Modeling
-    * Multiple Regression Analysis 
+    * Multiple regression analysis 
 * Diagnostics
     * Visualizations (Q-Q plots, residual plots)
     * Variance inflation factor (VIF) 
