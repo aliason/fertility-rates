@@ -39,7 +39,7 @@ The data used in this project are sourced from
 
 Python
 * Analysis: `numpy`, `pandas`
-* Modeling: `statsmodels` (PCA, OLS, stats), `scipy.stats`, `scikit-learn` 
+* Modeling: `statsmodels`, `scipy.stats`, `scikit-learn` 
 * Visualization: `matplotlib`, `seaborn` 
 
 *Revamped in May 2025 :) (original project 06-2023)*
