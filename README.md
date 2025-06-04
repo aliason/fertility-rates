@@ -44,7 +44,7 @@ Python
 * Modeling: `statsmodels` (PCA, OLS, stats), `scipy.stats`, `scikit-learn` 
 * Visualization: `matplotlib`, `seaborn` 
 
-*Revamped in May 2025 :) (original project 06-2023)*
+*Revamped in June 2025 :) (original project 06-2023)*
 
 
 
