@@ -25,13 +25,13 @@ The data used in this project are sourced from
 
 ## Methods Used
 * Preprocessing
-    * Merging and indexing (via `pandas`) 
+    * Merging (joining) and indexing (via `pandas`) 
     * Missing values
     * Feature engineering: scaling (z-score), selection (via VIF) 
 * Exploration
     * Correlation analysis (corrplots, heatmaps)
     * Feature analysis
-        * Distribution analysis (scatterplots) 
+         * Visualization (bivariate) (via scatterplots)  
     * Feature extraction (PCA) 
 * Modeling
     * Multiple Regression Analysis 
