@@ -31,8 +31,7 @@ The data used in this project are sourced from
 * Exploration
     * Correlation analysis (corrplots, heatmaps)
     * Feature analysis
-        * Trend (bivariate) analysis (via scatterplots) 
-    * Feature extraction (PCA) 
+    * Principal component analysis (PCA) 
 * Modeling
     * Multiple regression analysis 
 * Diagnostics
