@@ -25,9 +25,7 @@ The data used in this project are sourced from
 * Preprocessing
     * Merging and indexing (via `pandas`) 
     * Missing values
-    * Feature engineering: 
-        * Feature scaling (standardization) 
-        * Feature selection (via VIF)  
+    * Feature engineering: scaling (z-score), selection (via VIF) 
 * Exploration
     * Correlation analysis (corrplots, heatmaps)
     * Feature analysis
