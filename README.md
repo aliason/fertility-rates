@@ -35,7 +35,7 @@ The data used in this project are sourced from
     * Principal component analysis (PCA) 
 * Modeling
     * Multiple regression analysis 
-    * Diagnostics: Q-Q plots, residual plots, variance inflation factor (VIF) 
+    * Diagnostics: Q-Q plots, residual analysis, VIF
 
 Python
 * Analysis: `numpy`, `pandas`
